@@ -7,7 +7,8 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # 构建静态内容
 #hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-hugo --theme=hugo-theme-relearn --baseURL="https://xsliulab.github.io/CancerBiology/"
+#hugo --theme=hugo-theme-relearn --baseURL="https://xsliulab.github.io/CancerBiology/"
+hugo --baseURL="https://xsliulab.github.io/CancerBiology/"
 
 # 切换到 Public 文件夹
 #cd public
