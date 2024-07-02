@@ -15,7 +15,7 @@ test ppt
 
 
 
-{{< ppt scr="/ppt/workreport_wjy_240510.pptx">}}
+{{< ppt scr="/CancerBiology/static/ppt/workreport_wjy_240510.pptx">}}
 
 pdf
-{{< embed-pdf url="/ppt/workreport_wjy_240510.pdf" >}}
+{{< embed-pdf url="/CancerBiology/static/ppt/workreport_wjy_240510.pdf" >}}
