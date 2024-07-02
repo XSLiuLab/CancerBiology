@@ -17,5 +17,5 @@ test ppt
 
 {{< ppt scr="/ppt/workreport_wjy_240510.pptx">}}
 
-
-{ {< embed-pdf url="/ppt/workreport_wjy_240510.pdf" >}}
+pdf
+{{< embed-pdf url="/ppt/workreport_wjy_240510.pdf" >}}
