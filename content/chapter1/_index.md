@@ -11,7 +11,4 @@ test ppt
 
 
 
-{{<ppt src="https://github.com/XSLiuLab/CancerBiology/tree/main/ppt/workreport_wjy_240510.ppt">}}
-
-
-{{< embed-pdf url="./ppt/workreport_wjy_240510.pdf" >}}
+{{< ppt scr="https://docs.google.com/presentation/d/1Kq5PI0zLErM0SW0E1i4t3kQ394yna2Zs/embed?start=false&#038;loop=false&#038;delayms=3000" frameborder="0" width="800" height="600" allowfullscreen="true"  mozallowfullscreen="true" webkitallowfullscreen="true">}}
