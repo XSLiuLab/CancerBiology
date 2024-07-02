@@ -1,7 +1,7 @@
 baseURL = 'https://xsliulab.github.io/CancerBiology'
 relativeURLs = false
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Cancer Biology'
 theme = 'hugo-theme-relearn'
 
 [params]
