@@ -9,4 +9,4 @@ menuPre = "<i class='fa fa-align-left'></i> "
 
 test a picture
 
-![test](https://github.com/XSLiuLab/CancerBiology/blob/main/static/img/screenshot.png?raw=true "test")
+{{< figure src="images/logo.png" >}}
