@@ -12,7 +12,7 @@ title = "癌症生物学"
 
 我们的网站被划分为13个章节，每章节涵盖不同的主题和子专题，您可以点击标题跳转到每章具体内容(目前还没加内链)，或从左侧边栏跳转，课程内容如下：
 
-- Introduction
+- [Introduction](https://xsliulab.github.io/CancerBiology/chapter1)
 - 第二章
 - 第三章
 - 第四章
