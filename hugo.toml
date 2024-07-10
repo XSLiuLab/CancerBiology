@@ -8,7 +8,7 @@ theme = 'hugo-theme-relearn'
   additionalContentLanguage = ['en']
   alwaysopen = ''
   breadcrumbSeparator = '>'
-  collapsibleMenu = true
+  collapsibleMenu = false
   customMathJaxURL = ''
   customMermaidURL = ''
   customOpenapiURL = ''
@@ -71,17 +71,6 @@ theme = 'hugo-theme-relearn'
     twitter = ''
 
   [[params.themeVariant]]
-    auto = []
-    identifier = 'relearn-auto'
-    name = 'Relearn Light/Dark'
-
-  [[params.themeVariant]]
-    identifier = 'relearn-light'
-
-  [[params.themeVariant]]
-    identifier = 'relearn-dark'
-
-  [[params.themeVariant]]
     auto = ['zen-light', 'zen-dark']
     identifier = 'zen-auto'
     name = 'Zen Light/Dark'
@@ -92,8 +81,6 @@ theme = 'hugo-theme-relearn'
   [[params.themeVariant]]
     identifier = 'zen-dark'
 
-  [[params.themeVariant]]
-    identifier = 'neon'
 
 [outputs]
   home = ['html', 'rss', 'print', 'search']

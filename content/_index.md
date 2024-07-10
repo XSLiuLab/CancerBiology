@@ -30,3 +30,9 @@ title = "癌症生物学"
 
 <p align="right">上海科技大学 刘雪松实验室全体成员</p>
 
+
+
+test a picture
+
+{{< figure src="images/logo.png" >}}
+
