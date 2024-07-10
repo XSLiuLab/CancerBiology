@@ -18,7 +18,7 @@ theme = 'hugo-theme-relearn'
   disableGeneratorVersion = false
   disableHoverBlockCopyToClipBoard = false
   disableInlineCopyToClipBoard = true
-  disableLandingPageButton = false
+  disableLandingPageButton = true
   #语言转换
   disableLanguageSwitchingButton = true
   disableMathJax = true
