@@ -22,7 +22,7 @@ title = "癌症生物学 课程资源网站"
 
 
 
-同时，我们也提供了相关书籍供参考，，
+同时，我们也提供了相关书籍供参考:
 <center>
 	<img src="https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture" width="30%" />
 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -32,10 +32,20 @@ title = "癌症生物学 课程资源网站"
 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<font color="AAAAAA">《癌症生物学》 R.A.weinberg 著;詹启敏等 译</font>，<a href="https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000"></a>
+	<font color="AAAAAA">《癌症生物学》 R.A.weinberg 著;詹启敏等 译</font>
 </center>
 <br/>
 
+
+![test](https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture "R.A.weinberg")
+[R.A.weinberg](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)著
+
+
+
+<img align="left" src="https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture"/>
+[R.A.weinberg](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)著
+
+<img align="left" src="https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture"/>
 [R.A.weinberg](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)著
 
 
@@ -48,8 +58,6 @@ title = "癌症生物学 课程资源网站"
 
 
 
+
 <p align="right">上海科技大学 刘雪松实验室全体成员</p>
-
-
-
 
