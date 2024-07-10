@@ -99,13 +99,28 @@ theme = 'hugo-theme-relearn'
     url = 'https://www.shanghaitech.edu.cn/'
     weight = 11
 
+
+
+  [[menu.shortcuts]]
+    identifier = 'cancerquest'
+    name = "<i class='fa-fw fa fa-chain'></i> Hugo Documentation"
+    url = 'https://cancerquest.org/cancer-biology'
+    weight = 20
+
+  [[menu.shortcuts]]
+    identifier = '肿瘤生物学概论'
+    name = "<i class='fa-fw fa fa-chain'></i> Hugo Documentation"
+    url = 'https://www.xuetangx.com/course/THU08261001403/4227257?channel=search_result'
+    weight = 25
+
   [[menu.shortcuts]]
     identifier = 'hugodoc'
     name = "<i class='fa-fw fas fa-bookmark'></i> Hugo Documentation"
     url = 'https://gohugo.io/'
-    weight = 20
+    weight = 30
+
 
   [[menu.shortcuts]]
     name = "<i class='fa-fw fas fa-bullhorn'></i> Credits"
     url = 'more/credits/'
-    weight = 30
+    weight = 40

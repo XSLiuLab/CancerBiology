@@ -1,19 +1,15 @@
 +++
-title = "Credits"
+title = "鸣谢"
 +++
 
 ## Contributors
 
+特此感谢所有参与本课程资源建设的人员
 
-感谢页！
+书开头一大段话
 
-Special thanks to [everyone who has contributed](https://github.com/McShelby/hugo-theme-relearn/graphs/contributors) to this project.
 
-Many thanks to [Mathieu Cornic](https://github.com/matcornic) for his work on porting the [Learn theme](https://github.com/matcornic/hugo-theme-learn) to Hugo.
-
-Many thanks to [Andy Miller](https://github.com/rhukster) for initially creating the [Learn theme](https://github.com/getgrav/grav-theme-learn2) for Grav.
-
-## Theme Dependencies
+### 课程资源网站搭建
 
 - [autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) - A lightweight and powerful vanilla JavaScript completion suggester
 - [clipboard.js](https://clipboardjs.com) - A modern approach to copy text to clipboard
@@ -35,13 +31,7 @@ Many thanks to [Andy Miller](https://github.com/rhukster) for initially creating
 - [Perfect Scrollbar](https://perfectscrollbar.com) - A minimalistic but perfect custom scrollbar plugin
 - [SwaggerUI](https://github.com/swagger-api/swagger-ui) - Generate beautiful documentation from a Swagger-compliant API
 - [WorkSans](https://weiweihuanghuang.github.io/Work-Sans/) - Work Sans is a 9 weight typeface family based loosely on early Grotesques
-
-## Docs Dependencies
-
 - [github-buttons](https://github.com/buttons/github-buttons) - Unofficial github:buttons
-
-## Tooling Dependencies
-
 - [GitHub](https://github.com) - Continuous deployment, testing and hosting of this project's sources and its documentation
 - Various GitHub Actions
   - https://github.com/actions/checkout
@@ -58,3 +48,6 @@ Many thanks to [Andy Miller](https://github.com/rhukster) for initially creating
   - https://github.com/WyriHaximus/github-action-next-semvers
 - [gren](https://github.com/github-tools/github-release-notes) - A releasenotes generator for GitHub
 - [Hugo](https://gohugo.io/) - The static site generator of your choice
+- [Andy Miller](https://github.com/rhukster)
+- [Mathieu Cornic](https://github.com/matcornic)
+- [everyone who has contributed](https://github.com/McShelby/hugo-theme-relearn/graphs/contributors)

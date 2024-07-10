@@ -17,5 +17,4 @@ ppt存储在Google drive
 修改每章节小标题图标：https://www.runoob.com/font-awesome/fontawesome-icons-webapp.html
 浏览器地址栏图标修改 ./static/images/favicon.png(需要命名为favicon.png)
 小图标：https://www.runoob.com/font-awesome/fontawesome-icons-directional.html
-logo修改：
 
