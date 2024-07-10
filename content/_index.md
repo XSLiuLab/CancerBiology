@@ -24,43 +24,22 @@ title = "癌症生物学 课程资源网站"
 
 同时，我们也提供了相关书籍供参考:
 
+{{< figure src="images/wb_cb.jpeg" width=30% >}}
 
-<center>
-	<img src="https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture" width="30%" />
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<img src="https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture" width="30%" />
-	<br/>
-	<font color="AAAAAA">《癌症生物学》 刘雪松著</font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<font color="AAAAAA">《癌症生物学》 R.A.weinberg 著;詹启敏等 译</font>
-</center>
-<br/>
+作者：刘雪松   
+单位；上海科技大学   
+资源：正在印刷中，请期待   
 
 
+{{< figure src="images/wb_cb.jpeg" width=30% >}}
 
-
-- <img align="left" src="https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture" width=200 height=300/>
-
-[R.A.weinberg](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)著
-作者：刘雪松
-单位；上海科技大学
-资源：正在印刷中，请期待
-
----
-
-- <img align="left" src="https://github.com/XSLiuLab/CancerBiology/blob/main/images/wb_cb.jpeg?raw=Ture" width=200 height=300/>
-
-
-书名：《癌症生物学》
-作者：R.A.weinberg
-译者：詹启敏等
-资源：[科学文库](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)
+书名：《癌症生物学》   
+作者：R.A.weinberg   
+译者：詹启敏等   
+资源：[科学文库](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)   
 
 
 
----
 通过这些资源，我们希望为广大学生、研究人员、医生和生物学家提供一个集知识获取、资源分享和交流互动于一体的平台，共同推动癌症生物学领域的发展和创新。
 
 无论您是对癌症生物学感兴趣的初学者，还是寻求进一步专业知识的专家，我们都致力于为您提供最佳的学习和研究体验。欢迎访问我们的网站，探索更多关于癌症生物学的精彩内容！
@@ -69,5 +48,5 @@ title = "癌症生物学 课程资源网站"
 同时也欢迎大家指出课程资源的不足之处，邮箱：liuxs@shanghaitech.edu.cn
 
 
-<p align="right">上海科技大学 刘雪松实验室全体成员</p>
+上海科技大学 刘雪松实验室全体成员
 
