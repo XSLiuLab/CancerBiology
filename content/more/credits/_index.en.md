@@ -4,12 +4,10 @@ title = "鸣谢"
 
 ## Contributors
 
-特此感谢所有参与本课程资源建设的人员
-
-书开头一大段话
+特此感谢所有参与本课程资源建设的人员！
 
 
-### 课程资源网站搭建
+### 感谢课程资源网站搭建平台
 
 - [autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) - A lightweight and powerful vanilla JavaScript completion suggester
 - [clipboard.js](https://clipboardjs.com) - A modern approach to copy text to clipboard

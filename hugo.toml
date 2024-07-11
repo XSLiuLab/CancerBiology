@@ -83,9 +83,9 @@ theme = 'hugo-theme-relearn'
 
 
 [outputs]
-  home = ['html', 'rss', 'print', 'search']
-  page = ['html', 'rss', 'print']
-  section = ['html', 'rss', 'print']
+  home = ['html', 'rss', 'search']
+  page = ['html', 'rss',]
+  section = ['html', 'rss',]
 
 [menu]
   [[menu.shortcuts]]
