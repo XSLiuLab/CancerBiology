@@ -103,13 +103,13 @@ theme = 'hugo-theme-relearn'
 
   [[menu.shortcuts]]
     identifier = 'cancerquest'
-    name = "<i class='fa-fw fa fa-chain'></i> Hugo Documentation"
+    name = "<i class='fa-fw fa fa-chain'></i> CanceQquest"
     url = 'https://cancerquest.org/cancer-biology'
     weight = 20
 
   [[menu.shortcuts]]
     identifier = '肿瘤生物学概论'
-    name = "<i class='fa-fw fa fa-chain'></i> Hugo Documentation"
+    name = "<i class='fa-fw fa fa-chain'></i> 肿瘤生物学概论"
     url = 'https://www.xuetangx.com/course/THU08261001403/4227257?channel=search_result'
     weight = 25
 
