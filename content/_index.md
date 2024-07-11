@@ -6,7 +6,7 @@ title = "癌症生物学 课程资源网站"
 
 ### 简介
 
-欢迎来到《癌症生物学》课程资源网站，本网站服务于上海科技大学《癌症生物学》课程，着重搭建一个系统的癌症生物学知识框架，并概述了一些前沿研究，如人工智能大数据在肿瘤的精准诊疗中的应用等，同时面向所有朋友公开。
+欢迎来到《癌症生物学》课程资源网站，本网站服务于上海科技大学《癌症生物学》课程，着重搭建一个系统的癌症生物学知识框架，并介绍了一些前沿研究趋势，如人工智能大数据在肿瘤的精准诊疗中的应用等，同时面向所有朋友公开。
 
 本网站旨在为癌症生物学教学提供学习资源，涵盖了从基础概念到前沿研究的广泛内容。我们详细整理介绍了癌症生物学相关的知识以满足不同学习和专业需求。
 
@@ -58,8 +58,10 @@ title = "癌症生物学 课程资源网站"
 
 |参考书目|相关信息|
 |:-:|:-:|
-|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/lxs_cb.png?raw=true" width=30% >}} |《癌症生物学》<br>作者：刘雪松 ;</br>单位；上海科技大学'<br>链接：2024年出版 </br> |
-|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/wb_cb.jpeg?raw=true" width=30% >}}|《癌症生物学》<br> 作者：R.A.weinberg ；</br>译者：詹启敏等 ；<br> 链接：[科学文库](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)</br>|
+|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/lxs_cb.png?raw=true" width=30% >}} |《癌症生物学》<br>作者：刘雪松 ;</br>单位；上海科技大学；<br>链接：2024年出版 </br> |
+|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/wb_cb.jpeg?raw=true" width=30% >}}|《癌生物学》<br> 作者：R.A.weinberg ；</br>译者：詹启敏等 ；<br> 链接：[科学文库](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)</br>|
+
+左侧侧边栏也提供了其他癌症生物学相关课程供大家参考。
 
 通过这些资源，我们希望为广大学生、研究人员、医生和生物学家提供一个集知识获取、资源分享和交流互动于一体的平台，共同推动癌症生物学领域的发展和创新。
 

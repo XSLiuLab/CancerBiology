@@ -2,12 +2,21 @@
 title = "鸣谢"
 +++
 
-## Contributors
+## 感谢刘雪松教授实验室
 
-特此感谢所有参与本课程资源建设的人员！
+本课程授课老师为刘雪松教授，刘雪松教授于2002年毕业于武汉大学，2007年获得中国科学院上海生物科学研究所健康科学研究所博士学位。2008年至2015年赴哈佛大学进行博士后培训和工作。2015年回国后，加入上海科技大学生命科学与技术学院，任助理教授。2022年9月，晋升为上海科技大学副教授。
 
+课程资源由刘老师主要提供，实验室全体成员参与辅助材料收集整理，特此感谢所有参与本课程资源建设的人员！
 
-### 感谢课程资源网站搭建平台
+## 感谢上海科技大学（ShanghaiTech University）
+
+[上海科技大学](https://www.shanghaitech.edu.cn/)是由上海市人民政府与中国科学院共同举办、共同建设，由上海市人民政府负责日常管理的全日制普通高等学校。自建立以来，学校努力建设和发展成为一所小规模、高水平、国际化的研究型、创新型大学。2022年2月入选第二轮“双一流”建设高校。
+
+感谢上科大提供的课程平台与帮助！
+
+#### 感谢课程资源网站搭建平台
+
+网页搭建依托github pages与hugo,感谢相关团队！
 
 - [autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) - A lightweight and powerful vanilla JavaScript completion suggester
 - [clipboard.js](https://clipboardjs.com) - A modern approach to copy text to clipboard

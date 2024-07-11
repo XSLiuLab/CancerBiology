@@ -95,9 +95,14 @@ theme = 'hugo-theme-relearn'
     weight = 10
 
   [[menu.shortcuts]]
+    name = "<i class='fa-fw fa fa-bank'></i> Liulab page"
+    url = 'http://liuxslab.cn/'
+    weight = 11
+
+  [[menu.shortcuts]]
     name = "<i class='fa-fw fa fa-bank'></i> Shanghaitech"
     url = 'https://www.shanghaitech.edu.cn/'
-    weight = 11
+    weight = 12
 
 
 
