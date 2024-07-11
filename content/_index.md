@@ -57,9 +57,9 @@ title = "癌症生物学 课程资源网站"
 同时，我们也提供了相关书籍供参考:
 
 |参考书目|相关信息|
-|:-:|:--|
-|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/lxs_cb.png?raw=true" width=30% >}} |《癌症生物学》<br>作者：刘雪松 </br>单位；上海科技大学<br>资源：预计2024年出版，敬请期待 </br> |
-|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/wb_cb.jpeg?raw=true" width=30% >}}|《癌症生物学》<br> 作者：R.A.weinberg </br>译者：詹启敏等 <br>资源：[科学文库](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)</br>|
+|:-:|:-:|
+|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/lxs_cb.png?raw=true" width=30% >}} |《癌症生物学》<br>作者：刘雪松 ;</br>单位；上海科技大学'<br>链接：2024年出版 </br> |
+|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/wb_cb.jpeg?raw=true" width=30% >}}|《癌症生物学》<br> 作者：R.A.weinberg ；</br>译者：詹启敏等 ；<br> 链接：[科学文库](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)</br>|
 
 通过这些资源，我们希望为广大学生、研究人员、医生和生物学家提供一个集知识获取、资源分享和交流互动于一体的平台，共同推动癌症生物学领域的发展和创新。
 
