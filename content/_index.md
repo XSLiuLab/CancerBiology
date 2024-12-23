@@ -58,7 +58,7 @@ title = "癌症生物学 课程资源网站"
 
 |参考书目|相关信息|
 |:-:|:-:|
-|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/lxs_cb.png?raw=true" width=30% >}} |《癌症生物学》<br>作者：刘雪松 ;</br>单位；上海科技大学；<<br> 链接：[上海科学技术出版社]([https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000](http://www.sstp.cn/hotbook/3762.html ))</br>|
+|{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/lxs_cb.png?raw=true" width=30% >}} |《癌症生物学》<br>作者：刘雪松 ;</br>单位；上海科技大学；<<br> 链接：[上海科学技术出版社](http://www.sstp.cn/hotbook/3762.html)</br>|
 |{{< figure src="https://github.com/XSLiuLab/CancerBiology/blob/main/static/images/wb_cb.jpeg?raw=true" width=30% >}}|《癌生物学》<br> 作者：R.A.weinberg ；</br>译者：詹启敏等 ；<br> 链接：[科学文库](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B74A1883BA254770AE053020B0A0ADC52000)</br>|
 
 左侧侧边栏也提供了其他癌症生物学相关课程供大家参考。
