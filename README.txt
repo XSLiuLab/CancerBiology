@@ -1,13 +1,12 @@
-# cancer biology pages
+Cancer Biology
 
-此项目存储《癌症生物学》课程资源网站相关文件
-## 介绍
-癌症生物学》课程资源网站配置文件，由上海科技大学刘雪松团队创建维护。
-## 维护
-1,首先下载源码
-    git clone ～
-之后 走git 流程
+刘雪松老师编著《癌症生物学》已于2024-09-01出版。
 
+
+《癌症生物学》课程资源网站配置文件，由上海科技大学刘雪松团队创建维护。
+
+维护
+1,git clone ～,之后 走git 流程
 2,内容修改
 文字修改参考：https://mcshelby.github.io/hugo-theme-relearn/cont/markdown/index.html
 新增图片展示：![test](https://github.com/~path~/screenshot.png?raw=true "test")
